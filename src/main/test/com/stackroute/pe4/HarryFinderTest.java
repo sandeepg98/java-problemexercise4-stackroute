@@ -19,15 +19,24 @@ public class HarryFinderTest {
         object = null;
     }
 
+    //For strings that contain "Harry"
     @Test
     public void ifHarryIsPresent() {
         boolean output = object.findHarry("This is Harry");
         assertTrue(output);
     }
 
+    //For strings that don't contain "Harry"
     @Test
     public void ifHarryIsNotPresent() {
         boolean output = object.findHarry("This is Henry");
+        assertFalse(output);
+    }
+
+    //For empty strings
+    @Test
+    public void ifStringIsEmpty() {
+        boolean output = object.findHarry("");
         assertFalse(output);
     }
 }

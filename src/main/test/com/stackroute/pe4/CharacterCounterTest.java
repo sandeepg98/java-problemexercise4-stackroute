@@ -40,4 +40,11 @@ public class CharacterCounterTest {
         long output = object.characterCount("utkarsh Anand", 'x');
         assertEquals(0, output);
     }
+
+    //For empty strings
+    @Test
+    public void countIfStringIsEmpty() {
+        long output = object.characterCount("", 'x');
+        assertEquals(0, output);
+    }
 }

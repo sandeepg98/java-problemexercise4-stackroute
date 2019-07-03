@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dfcdddb-c096-4aff-878e-f9b5c0f31bfc" name="Default Changelist" comment="" />
+    <list default="true" id="1dfcdddb-c096-4aff-878e-f9b5c0f31bfc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemExercise4/com/stackroute/pe4/HarryFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemExercise4/com/stackroute/pe4/HarryFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemExercise4/com/stackroute/pe4/IndexFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemExercise4/com/stackroute/pe4/IndexFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemExercise4/com/stackroute/pe4/ParagraphSorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemExercise4/com/stackroute/pe4/ParagraphSorter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemExercise4/com/stackroute/pe4/StringTransposer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemExercise4/com/stackroute/pe4/StringTransposer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/ProblemExercise4/com/stackroute/pe4/HarryFinderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/ProblemExercise4/com/stackroute/pe4/HarryFinderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/ProblemExercise4/com/stackroute/pe4/IndexFinderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/ProblemExercise4/com/stackroute/pe4/IndexFinderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/HarryFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/HarryFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/IndexFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/IndexFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ParagraphSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ParagraphSorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/StringTransposer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/StringTransposer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/CharacterCounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/CharacterCounterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/CharacterReplacerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/CharacterReplacerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/HarryFinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/HarryFinderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/IndexFinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/IndexFinderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/ParagraphSorterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/ParagraphSorterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/StringTransposerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/StringTransposerTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,8 +29,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf />
@@ -24,21 +42,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/CharacterReplacer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/CharacterCounter.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/CharacterReplacerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/CharacterCounterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/StringTransposer.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/StringTransposerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ParagraphSorter.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/ParagraphSorterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/HarryFinderTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/HarryFinder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/IndexFinder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/StringTransposer.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/CharacterCounterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/CharacterReplacerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/HarryFinderTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/IndexFinderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ParagraphSorter.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/ParagraphSorterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe4/StringTransposerTest.java" />
       </list>
     </option>
   </component>
@@ -109,11 +130,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/junit-4.12.jar!/" />
@@ -141,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IndexFinderTest">
+  <component name="RunManager" selected="JUnit.StringTransposerTest">
     <configuration name="CharacterReplacerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProblemExercise4" />
       <extension name="coverage">
@@ -202,7 +224,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTransposerTest.replaceIfSmallCharIsPresent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringTransposerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProblemExercise4" />
       <extension name="coverage">
         <pattern>
@@ -212,18 +234,17 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.pe4" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.pe4.StringTransposerTest" />
-      <option name="METHOD_NAME" value="replaceIfSmallCharIsPresent" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringTransposerTest" />
+        <item itemvalue="JUnit.ParagraphSorterTest" />
         <item itemvalue="JUnit.IndexFinderTest" />
         <item itemvalue="JUnit.HarryFinderTest" />
-        <item itemvalue="JUnit.ParagraphSorterTest" />
-        <item itemvalue="JUnit.StringTransposerTest.replaceIfSmallCharIsPresent" />
         <item itemvalue="JUnit.CharacterReplacerTest" />
       </list>
     </recent_temporary>
@@ -242,35 +263,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HarryFinderTest - 2019.07.03 at 11h 25m 46s.xml">
+    <history-entry file="IndexFinderTest_findIndexIfStringIsEmpty - 2019.07.03 at 12h 09m 31s.xml">
+      <configuration name="IndexFinderTest.findIndexIfStringIsEmpty" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParagraphSorterTest_sortIfCapitalCharIsPresent - 2019.07.03 at 12h 14m 06s.xml">
+      <configuration name="ParagraphSorterTest.sortIfCapitalCharIsPresent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParagraphSorterTest_replaceIfSmallCharIsPresent - 2019.07.03 at 12h 14m 13s.xml">
+      <configuration name="ParagraphSorterTest.replaceIfSmallCharIsPresent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParagraphSorterTest - 2019.07.03 at 12h 14m 59s.xml">
+      <configuration name="ParagraphSorterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterCounterTest - 2019.07.03 at 12h 15m 03s.xml">
+      <configuration name="CharacterCounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterReplacerTest - 2019.07.03 at 12h 15m 06s.xml">
+      <configuration name="CharacterReplacerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HarryFinderTest - 2019.07.03 at 12h 15m 09s.xml">
       <configuration name="HarryFinderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HarryFinderTest - 2019.07.03 at 11h 31m 21s.xml">
-      <configuration name="HarryFinderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IndexFinderTest - 2019.07.03 at 11h 33m 27s.xml">
+    <history-entry file="IndexFinderTest - 2019.07.03 at 12h 15m 14s.xml">
       <configuration name="IndexFinderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IndexFinderTest - 2019.07.03 at 11h 34m 13s.xml">
-      <configuration name="IndexFinderTest" configurationId="JUnit" />
+    <history-entry file="ParagraphSorterTest - 2019.07.03 at 12h 15m 18s.xml">
+      <configuration name="ParagraphSorterTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IndexFinderTest - 2019.07.03 at 11h 37m 12s.xml">
-      <configuration name="IndexFinderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IndexFinderTest - 2019.07.03 at 11h 37m 29s.xml">
-      <configuration name="IndexFinderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IndexFinderTest - 2019.07.03 at 11h 37m 57s.xml">
-      <configuration name="IndexFinderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IndexFinderTest - 2019.07.03 at 11h 39m 02s.xml">
-      <configuration name="IndexFinderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IndexFinderTest - 2019.07.03 at 11h 40m 02s.xml">
-      <configuration name="IndexFinderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IndexFinderTest - 2019.07.03 at 11h 40m 09s.xml">
-      <configuration name="IndexFinderTest" configurationId="JUnit" />
+    <history-entry file="StringTransposerTest - 2019.07.03 at 12h 19m 01s.xml">
+      <configuration name="StringTransposerTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -279,15 +300,15 @@
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.24983165" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.25319865" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.3297587" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3293011" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3293011" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -301,10 +322,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/CharacterCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/CharacterCounterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="607">
+          <caret line="46" column="53" lean-forward="true" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -313,8 +341,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/CharacterReplacerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="297">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#242#243#0" expanded="true" />
@@ -325,50 +353,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/ParagraphSorterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/StringTransposerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="2" selection-end-line="4" selection-end-column="22" />
-          <folding>
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/HarryFinderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/CharacterCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/CharacterReplacer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -376,44 +360,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/HarryFinderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/HarryFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ParagraphSorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/StringTransposer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="90">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/IndexFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="101" selection-start-line="15" selection-start-column="101" selection-end-line="15" selection-end-column="101" />
+        <state relative-caret-position="360">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/IndexFinderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+        <state relative-caret-position="312">
+          <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ParagraphSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/ParagraphSorterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="28" column="69" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/StringTransposer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/StringTransposerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

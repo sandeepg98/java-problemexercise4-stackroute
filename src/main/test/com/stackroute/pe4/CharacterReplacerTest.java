@@ -36,8 +36,15 @@ public class CharacterReplacerTest {
 
     //For strings not having the key character(s)
     @Test
-    public void countIfCharIsNotPresent() {
+    public void replaceIfCharIsNotPresent() {
         String output = object.characterReplace("Tingu Singh");
         assertEquals("tingu singh", output);
+    }
+
+    //For strings is empty
+    @Test
+    public void replaceIfStringIsEmpty() {
+        String output = object.characterReplace("");
+        assertEquals("", output);
     }
 }

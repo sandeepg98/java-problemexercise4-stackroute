@@ -19,10 +19,25 @@ public class IndexFinderTest {
         object = null;
     }
 
+    //For cases in which key is actually present
     @Test
-    public void findIndexTest() {
-        String result= object.findIndex("ishapharryhhh ry","ry");;
+    public void findIndexIfKeyIsPresent() {
+        String output= object.findIndex("ishapharryhhh ry","ry");;
         assertEquals("Start index 8 End index 10\n" +
-                              "Start index 14 End index 16",result);
+                              "Start index 14 End index 16", output);
+    }
+
+    //For cases in which key is not present
+    @Test
+    public void findIndexIfKeyIsNotPresent() {
+        String output= object.findIndex("ishapharryhhh ry","xyz");;
+        assertEquals("No match found.", output);
+    }
+
+    //For cases in which string is empty
+    @Test
+    public void findIndexIfStringIsEmpty() {
+        String output= object.findIndex("","xyz");;
+        assertEquals("No match found.", output);
     }
 }

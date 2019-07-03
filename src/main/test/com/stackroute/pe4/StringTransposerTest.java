@@ -20,9 +20,24 @@ public class StringTransposerTest {
         object = null;
     }
 
+    //if string is not empty and contains all small characters
     @Test
-    public void replaceIfSmallCharIsPresent() {
+    public void transposeIfSmallCharIsPresent() {
         String output = object.stringTranspose("my name is khan");
         assertEquals("ym eman si nahk", output);
+    }
+
+    //if string is not empty and doesn't contain all small characters
+    @Test
+    public void transposeIfCapitalCharIsPresent() {
+        String output = object.stringTranspose("My Name Is Khan");
+        assertEquals("yM emaN sI nahK", output);
+    }
+
+    //if string is empty
+    @Test
+    public void transposeIfStringIsEmpty() {
+        String output = object.stringTranspose("");
+        assertEquals("", output);
     }
 }
