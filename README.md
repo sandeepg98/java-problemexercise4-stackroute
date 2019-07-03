@@ -1,4 +1,4 @@
-**********Java Language Basics - Practice Exercise 4***********
+**********Java Language Basics - Practice Exercise 4**********
 ----------------------------------------------------------------------------------------------------
 1. Write a java program to count the total number of occurrences of a given character in a string
 without using any loop?
